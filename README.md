@@ -1,24 +1,6 @@
-# vue-chat
+# Real Time Chat
 
-## Project setup
-```
-npm install
-```
+Real time chat application created in Vue.js with firebase.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Preview: <br/>
+![Application example](https://raw.githubusercontent.com/overjoyedbrass/vue-chat-app/main/img/preview.png)

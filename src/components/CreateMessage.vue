@@ -26,9 +26,10 @@ async function createMessage() {
 </script>
 <template>
     <div class="container" style="margin-bottom: 30px">
-        <form @submit.prevent="createMessage">
+        <form @submit.prevent="createMessage" autocomplete="off">
             <div class="input-group mb-3">
                 <input
+                    autocomplete="off"
                     type="text"
                     class="form-control"
                     name="message"

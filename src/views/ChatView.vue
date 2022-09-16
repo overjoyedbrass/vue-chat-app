@@ -163,6 +163,12 @@ onUnmounted(async () => unsubscribe.value());
     text-align: left;
 }
 
+@media only screen and (max-width: 600px) {
+    .messages {
+        max-height: 200px;
+    }
+}
+
 .message {
     color: black;
 }

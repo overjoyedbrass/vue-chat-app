@@ -4,6 +4,7 @@
         <a
             href="https://www.github.com/overjoyedbrass"
             class="btn btn-secondary link btn-sm"
+            target="blank"
         >
             github.com/overjoyedbrass
         </a>
@@ -11,6 +12,9 @@
 </template>
 
 <style>
+body {
+    background-color: rgb(21, 51, 78);
+}
 #app {
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;

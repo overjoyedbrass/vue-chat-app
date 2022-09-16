@@ -81,7 +81,7 @@ onUnmounted(async () => unsubscribe.value());
 </script>
 
 <template>
-    <div class="container mt-5" style="max-width: 600px">
+    <div class="container mt-1" style="max-width: 600px">
         <h2 class="text-warning text-center">Real-Time chat</h2>
         <h5 class="text-secondary text-center">
             <span style="color: white">Room id:</span>&nbsp;
